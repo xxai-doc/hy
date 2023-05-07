@@ -7,3 +7,4 @@
 * [ճակատային ծածկագիր](https://github.com/xxai-art/web)
 * [Լեզուների փաթեթներ կայքի համար որպես ամբողջություն](https://github.com/xxai-art/web/tree/main/i18n)
 * [Լեզուների փաթեթներ մուտքի մոդուլների համար](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Կայքի բազմալեզու փաստաթղթեր](https://github.com/xxai-doc)
