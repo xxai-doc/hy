@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , ավելացրեք որոշ առանձնահատկություններ՝ հիմնվելով coffeescript շարահյուսության վրա, տես [coffee_plus](./coffee_plus.md) :
 
-* հայտարարել փոփոխական
+## հայտարարել փոփոխական
 
 ```
 + var1, var2
 ```
 
-* հայտարարագրի պիտակ
+## հայտարարագրի պիտակ
 
 `:$` նախատեսված է [svelte-ի](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) հետ օգտագործելու համար:
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* արագ ներմուծում
+## արագ ներմուծում
 
 ```
 > zx/globals:
